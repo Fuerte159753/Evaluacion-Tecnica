@@ -20,11 +20,11 @@ composer install
 # 6. Ejecutar las migraciones
 php artisan migrate
 
-# 8. Instala las dependencias de Node.js
+# 7. Instala las dependencias de Node.js
 npm install
 
-# 9. Compilarde produccion
+# 8. Compilarde produccion
 npm run dev
 
-# 10. Levantar el servidor local de Laravel
+# 9. Levantar el servidor local de Laravel
 php artisan serve
